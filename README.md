@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Road Accident Dashboard](Dashboard 1.png)
+![Road Accident Dashboard](Dashboard.png)
